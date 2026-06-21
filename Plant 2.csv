@@ -1,0 +1,38 @@
+diseases name,plant name,symptom,management,cause
+"Fusarium Wilt 
+",Cotton,"yellowing,Browing,Small Roots,soil temp 20-30,high nitrogen and phosphatic ", Avoid excessive nitrogen,
+comman rust,maize,"dark brown spot, due lack of water ",,
+Apple_healthy,Apple,,"ADAMA,ACTTARA",
+Apple_leaf_blotch,Apple," leaves turn yellow and fall off, small circular, purple to brown spots on the surface of the leaves","Fungicides(trifloxystrobin, kresoxim-methyl,) (Ziram + zinc )nutrients,ACTTARA",fungus -  Diplocarpon coronariae
+Apple rust,Apple,"yellow spots,bright orange-red after enlarge, small bulges on the undersurface of the leaves, ","myclobutanil (Immunox, Fungi-Max and F-Stop Lawn & Garden Fungicide)",fungus - Gymnosporangium juniperi-virginianae.
+Apple_scab,Apple,leaves spots are olive-green or sooty black.,"fungicides ,broad-spectrum fungicide(myclobutanil,Captan )",fungus - Venturia inaequalis
+Bell_pepper_bacterial_spot,Capsicum ,"necrotic lesions on leaves, stems, and fruit, black lesions and yellow halos on the leaves ",Copper sprays+ bleach solution ,Bacteria - Xanthomonas campestris pv. vesicatoria
+Bell_pepper_healthy,Capsicum , allergic reaction for Some People,,
+Blueberry_healthy,Blueberries ,,,
+Cherry_healthy,Cherry,,,
+Corn_Common_rust,Corn(Maize),"small, round to oval-shaped pustules to appear on the leaves ","Fungicides- (Mancozeb)other chemical (phosphoric acid and sulfuric acid,Hydrochloric acid)    ",fungus Puccinia sorghi
+Corn_gray_leaf_spot,Corn(Maize),"Small, rectangular, pale brown to gray spots with yellow halos ","azoxystrobin, pyraclostrobin, or fluoxastrobin,overfertilizing with nitrogen,sulfur sprays or copper",fungus Cercospora zeae-maydis.
+Corn_northern_lef_bliht,Corn(Maize),"canoe-shaped lesions 1 inch to 6 inches long,lesions of gray leaf spot begin as a small dot with a yellow halo",Delaro 325 SC Fungicide(chlorothalonil),fungus - Exserohilum turcicum
+Grape_black_rot,Grape,"Brownish-red border, Small Yellow Spot on Leaves","Fungicides for 4wk (Captan, Copper fungicide or Neem oil )","Fungus - Ascomycetous fungus, Guignardia bidwellii"
+Grape_healthy,Grape,,,
+Peach_healthy,Peach,,,
+Potato_late_blight,Potato,"Circular, necrotic or brown lesions,pale green to yellow","Fungicide-(fluazinam),Dithane (mancozeb) MZ, Tattoo C, or Acrobat MZ",Fungus - Phytophthora infestans
+Potato_early_blight,Potato,"Circular, brown, or necrotic lesions",,Fungus - Phytophthora infestans
+Raspberry_healthy,Raspberry,,,
+Rice_bacterial_blinght,Rice,"Leaves( dark-greenish,yellow-orange,grayish green and roll up)",,Bacterium  - Xanthomonas oryzae pv Oryzae
+Rice_leaf_smut,Rice,"Leaves -  black spots, Discoloration",Fungicides Spary(copper oxychloride at 2 g/liter or propiconazole at 1ml/liter) Avoide -  High nitrogen levels, Fungus - Entyloma oryzae
+Rice_brown_spot,Rice,Leaves(Circular to oval spots) Seed( Black or brown spots ) ,"Fungicidesdes (iprodione, propiconazole, azoxystrobin, trifloxystrobin Carbendazin before planting)Seeds with hot water for 5-10 min",Fungus -  Cochliobolus miyabeanus (originally Helminthosporium oryzae)
+Soybean_healthy,Soybean,,,
+Sauash_powdery_mildew,Sphaerotheca fuliginea,"pale yellow leaf spot  White powdery spots ,Leaf edges curl upwards","Copper fungicides,Neem oil,Potassium bicarbonate
+",Fungus - Podosphaera xanthii
+Strawberry_healthy,Strawberry,,,
+Tomato_early_blight,Tomato,"Leaves -(brown spots),Stems(Dark and sunken spots )","Fungicides -(Kocide 101(copper hydroxide) every 10 day,Daconil  ),Rotate Plant every 2-3 yr ",Fungus - Alternaria solani
+Tomato_bacterial_spot,Tomato,"Leaves- (dark-brown or black, yellow halo),Stems(dark brown )","Antibiotics(Kasugamycin,Streptomycin),Fungicide(Actigard)",Fungus - Xanthomonas vesicatoria
+Tomato_healthy,Tomato,,,
+Tomato_late_blight,Tomato,"Leaves (Water Soaked,enlarge Purple-brown),Stems(Brown lesion )Fruits(Large,Brown lesion)","Fungicides(Daconil,Mancozeb),Organic(Copper Sulfate ever 7-10 days) ",Fungus - Phytophthora infestans 
+Tomato_leaf_curl,Tomato,"Leaves (Curl Upward,Yellowing Veins),Plant Growt(Stunted Height),Fruit(small, dry, and unsaleable, some plant not produce fruit)","No Specific Treatment,sulfur or copper-based fungicides , Maintain Nitrigen in soil,Remove Infected Plants","Virus - Geminivirus, Othere Factor (Heat and low Moisture)"
+Tomato_leaf_mold,Tomato,"Leaves(Pale greenish-yellow spots,Olive-green to brown,Curl),Flowers(Black),Fruit(Dark Black)","Fungucude(Mancozeb every 7-10day),Improve Ventilation,Remove Affected part",Fungus - Passalora fulva (syn. Cladosporium fulvum) 
+Tomato_mosaic_virus,Tomato,"Leaves(Mottling,yellowing,twisting)Fruit(Reduced Size)Plant(dwarfing)","Insecticide( dimethoate 1 ml/lit,Methyl dematon 2ml/lit Spraying  ),Remove all Infected Plants",Virus - Tobamovirus 
+Tomato_septoria_leaf_spot,Tomato,"Leaves(Yellow,Brown)Stem (Dark)Fruit(damage)","Fungicide (Mancozeb every 7-10 day intervals),Remove Infeacted Leaves", Fungus -  Septoria lycopersici
+Tomato_spider_mites,Tomato,"Leaves(Yellowing or Whitening, Leaf Loss)","Insecticide(Emamectin Benzoate 250ml), Neem Oil, Soapy Alcohol","Hot and Dry Conditions, Host plants"
+Corn_healthy,Corn(Maize),,,
