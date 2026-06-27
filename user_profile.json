@@ -1,0 +1,21 @@
+{
+    "name": "ajay thorat ",
+    "phone": "7588977176",
+    "email": "athorat160@gmail.com",
+    "address": "at post warud khurd ",
+    "saved_crops": [
+        {
+            "crop": "Tomato",
+            "stage": "Sowing",
+            "date": "2026-06-23"
+        },
+        {
+            "crop": "Wheat",
+            "stage": "Sowing",
+            "date": "2026-06-23"
+        }
+    ],
+    "tracked_crop": "Maize",
+    "tracked_stage": "Sowing",
+    "tracked_date": ""
+}

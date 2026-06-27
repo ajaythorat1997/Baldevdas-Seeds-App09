@@ -1,0 +1,16 @@
+[
+  {
+    "disease": "Fusarium Wilt",
+    "crop name": "Cotton",
+    "causes": "yellowing,Browing,Small Roots,soil temp 20-30,high nitrogen and phosphatic",
+    "management": "Avoid excessive nitrogen",
+    "image": "E:\\PYTHON\\BALDEVDAS SEEDS\\Img\\Disease\\Fusarium Wilt of Cotton.jpeg"
+  },
+  {
+    "disease": "comman rust",
+    "crop name": "maize",
+    "causes": "dark brown spot, due lack of water",
+    "management": "",
+    "image": "E:\\PYTHON\\BALDEVDAS SEEDS\\Img\\Disease\\train_Corn rust leaf_2.jpg"
+  }
+]

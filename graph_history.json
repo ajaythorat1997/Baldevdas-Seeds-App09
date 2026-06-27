@@ -1,0 +1,181 @@
+{
+    "May 26": {
+        "Market Price": 2510.56,
+        "Temperature": 28.19,
+        "Nitrogen Level": 27.3,
+        "Moisture Level": 25.21
+    },
+    "May 27": {
+        "Market Price": 2277.11,
+        "Temperature": 33.75,
+        "Nitrogen Level": 31.04,
+        "Moisture Level": 58.3
+    },
+    "May 28": {
+        "Market Price": 2671.1,
+        "Temperature": 33.77,
+        "Nitrogen Level": 35.71,
+        "Moisture Level": 42.56
+    },
+    "May 29": {
+        "Market Price": 2185.23,
+        "Temperature": 30.41,
+        "Nitrogen Level": 21.35,
+        "Moisture Level": 26.34
+    },
+    "May 30": {
+        "Market Price": 2182.7,
+        "Temperature": 30.76,
+        "Nitrogen Level": 31.76,
+        "Moisture Level": 48.23
+    },
+    "May 31": {
+        "Market Price": 2552.48,
+        "Temperature": 28.2,
+        "Nitrogen Level": 32.21,
+        "Moisture Level": 61.55
+    },
+    "Jun 01": {
+        "Market Price": 2735.87,
+        "Temperature": 31.54,
+        "Nitrogen Level": 32.72,
+        "Moisture Level": 62.83
+    },
+    "Jun 02": {
+        "Market Price": 2146.32,
+        "Temperature": 29.53,
+        "Nitrogen Level": 37.61,
+        "Moisture Level": 61.62
+    },
+    "Jun 03": {
+        "Market Price": 2190.06,
+        "Temperature": 31.19,
+        "Nitrogen Level": 20.18,
+        "Moisture Level": 62.35
+    },
+    "Jun 04": {
+        "Market Price": 2333.61,
+        "Temperature": 33.28,
+        "Nitrogen Level": 39.4,
+        "Moisture Level": 63.77
+    },
+    "Jun 05": {
+        "Market Price": 2603.72,
+        "Temperature": 30.91,
+        "Nitrogen Level": 26.85,
+        "Moisture Level": 63.32
+    },
+    "Jun 06": {
+        "Market Price": 2614.05,
+        "Temperature": 28.82,
+        "Nitrogen Level": 24.66,
+        "Moisture Level": 45.15
+    },
+    "Jun 07": {
+        "Market Price": 2514.86,
+        "Temperature": 31.23,
+        "Nitrogen Level": 28.15,
+        "Moisture Level": 33.93
+    },
+    "Jun 08": {
+        "Market Price": 2097.48,
+        "Temperature": 30.66,
+        "Nitrogen Level": 37.79,
+        "Moisture Level": 61.02
+    },
+    "Jun 09": {
+        "Market Price": 2395.6,
+        "Temperature": 28.13,
+        "Nitrogen Level": 38.62,
+        "Moisture Level": 36.54
+    },
+    "Jun 10": {
+        "Market Price": 2471.7,
+        "Temperature": 33.37,
+        "Nitrogen Level": 27.48,
+        "Moisture Level": 38.79
+    },
+    "Jun 11": {
+        "Market Price": 2108.27,
+        "Temperature": 30.13,
+        "Nitrogen Level": 22.53,
+        "Moisture Level": 62.82
+    },
+    "Jun 12": {
+        "Market Price": 2116.35,
+        "Temperature": 31.6,
+        "Nitrogen Level": 23.79,
+        "Moisture Level": 27.33
+    },
+    "Jun 13": {
+        "Market Price": 2572.91,
+        "Temperature": 28.19,
+        "Nitrogen Level": 20.62,
+        "Moisture Level": 53.43
+    },
+    "Jun 14": {
+        "Market Price": 2736.79,
+        "Temperature": 28.7,
+        "Nitrogen Level": 29.29,
+        "Moisture Level": 34.82
+    },
+    "Jun 15": {
+        "Market Price": 2130.12,
+        "Temperature": 30.66,
+        "Nitrogen Level": 22.18,
+        "Moisture Level": 60.94
+    },
+    "Jun 16": {
+        "Market Price": 2665.7,
+        "Temperature": 33.62,
+        "Nitrogen Level": 27.94,
+        "Moisture Level": 64.81
+    },
+    "Jun 17": {
+        "Market Price": 2052.62,
+        "Temperature": 28.04,
+        "Nitrogen Level": 39.39,
+        "Moisture Level": 38.28
+    },
+    "Jun 18": {
+        "Market Price": 2465.32,
+        "Temperature": 33.24,
+        "Nitrogen Level": 36.1,
+        "Moisture Level": 45.92
+    },
+    "Jun 19": {
+        "Market Price": 2294.43,
+        "Temperature": 32.5,
+        "Nitrogen Level": 36.96,
+        "Moisture Level": 36.72
+    },
+    "Jun 20": {
+        "Market Price": 2267.59,
+        "Temperature": 33.34,
+        "Nitrogen Level": 24.9,
+        "Moisture Level": 48.74
+    },
+    "Jun 21": {
+        "Market Price": 2239.89,
+        "Temperature": 30.57,
+        "Nitrogen Level": 28.94,
+        "Moisture Level": 59.67
+    },
+    "Jun 22": {
+        "Market Price": 2108.77,
+        "Temperature": 33.36,
+        "Nitrogen Level": 29.36,
+        "Moisture Level": 25.88
+    },
+    "Jun 23": {
+        "Market Price": 2400.0,
+        "Temperature": 30.0,
+        "Nitrogen Level": 30.0,
+        "Moisture Level": 45.0
+    },
+    "Jun 24": {
+        "Temperature": 25.0,
+        "Nitrogen Level": 30.0,
+        "Moisture Level": 45.0
+    }
+}
